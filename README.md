@@ -1,5 +1,10 @@
 # IT Help Desk Troubleshooting Lab
 
+  ## Help Desk Documentation
+- [Ticket System Folder](helpdesk_docs/)
+- [Ticket 001 — VM Startup Issue](helpdesk_docs/tickets/ticket-001.md)
+- [Ticket 002 — DNS Website Issue](helpdesk_docs/tickets/ticket-002.md)
+
 ## Overview
 This project documents the setup of a Windows 11 virtual machine using Oracle VirtualBox and the troubleshooting of a real kernel-level startup error.
 ## Environment
@@ -56,8 +61,4 @@ After applying the fix, the virtual machine started successfully and Windows 11 
 - How Windows security features can impact virtualization
 - How to document technical issues clearly and professionally
 
-  ## Help Desk Documentation
-- [Ticket System Folder](helpdesk_docs/)
-- [Ticket 001 — VM Startup Issue](helpdesk_docs/tickets/ticket-001.md)
-- [Ticket 002 — DNS Website Issue](helpdesk_docs/tickets/ticket-002.md)
 
