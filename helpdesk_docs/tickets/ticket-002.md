@@ -22,4 +22,13 @@ Unable to access websites due to a DNS configuration issue on the Ethernet adapt
 - Restarted the system and verified that websites loaded successfully
 ## What I Learned
 Even when a device shows it is connected to a network, incorrect DNS settings can prevent websites from loading. Using trusted DNS servers helps determine whether an issue is caused by local configuration problems or external network services
+## Evidence
+- [Browser DNS Error](../screenshots/ticket-002/01-dns-error-browser.png)
+- [Ethernet Connected Status](../screenshots/ticket-002/02-ethernet-connected-status.png)
+- [Proxy Settings](../screenshots/ticket-002/03-proxy-settings-off.png)
+- [Active Network Adapter](../screenshots/ticket-002/04-active-network-adapter.png)
+- [IPv4 DNS Settings](../screenshots/ticket-002/05-ipv4-dns-settings.png)
+- [DNS Cache Flush](../screenshots/ticket-002/06-dns-cache-flush.png)
+- [Winsock Reset](../screenshots/ticket-002/07-winsock-reset.png)
+- [Website Verification](../screenshots/ticket-002/08-website-load-verification.png)
 
